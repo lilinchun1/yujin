@@ -26,7 +26,12 @@ a:hover		{ color:#1fb9a5; text-decoration:underline;}
 .nav li{ float: left; padding: 0 8px; border-left: 1px #999 solid;}
 .nav li a{ color: #666666; font-size: 14px;font-family: "Microsoft Yahei";}
 .nav li a:hover{ color: #1fb9a5; text-decoration:none;}
-.nav-s{ position: absolute; top: 32px; left: 120px; height: 30px; background: #1fb9a5; border-radius: 5px; display: 1none;}
+.nav li:hover .nav-s{ display: block;}
+.nav-s{ position: absolute; top: 28px; left: 0px; height: 30px; background: #1fb9a5; border-radius: 5px; display: none;}
+.l120{left: 120px;}
+.l220{left: 220px;}
+.l280{ left: 280px;}
+.l350{ left: 350px;}
 .nav-s li{ padding: 0 10px; line-height: 30px; border-left: 0 none;}
 .nav-s li a{ color: #fff;}
 .nav-s li a:hover{ color: #ffff99;}
