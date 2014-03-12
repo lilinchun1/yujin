@@ -80,7 +80,7 @@ a:hover		{ color:#1fb9a5; text-decoration:underline;}
 .inp-name{ width: 80px; height: 32px; color: #1fb9a5; font-size: 16px; float: left; line-height: 32px;}
 .show-con label{ padding-bottom: 16px; display: block;}
 .input-textarea{ padding: 5px; width: 292px; height: 124px;border: 1px solid #ccc; line-height: 18px;}
-.tishi{ padding-left: 80px;line-height: 24px; color: #666666;}
+.tishi{ margin-top: -16px; padding-left: 80px;line-height: 24px; color: #666666;}
 .input-sb{ margin: 30px 0 64px 240px; width: 138px; height: 48px; border: 1px solid #006666; font-size: 22px; font-family: "microsoft yahei"; color: #ffffff; background: url(../images/input_bg.png) 0 0 repeat-x; border-radius: 5px; cursor: pointer;}
 .input-sb:hover{opacity: 0.9;}
 /*内容页end*/
