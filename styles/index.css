@@ -74,8 +74,8 @@ a:hover		{ color:#1fb9a5; text-decoration:underline;}
 .side-list li a{ margin-left: 45px; font-size: 16px; color: #909594;font-family: "microsoft yahei";}
 .side-list li a:hover,
 .side-list .active a{ color: #1fb9a5;}
-.wktime{ margin-top: 40px; width: 304px; height: 128px; background: #1fb9a5;border-radius: 5px; overflow: hidden;}
-.wbd{ margin: 4px 0 0 4px; width: 292px; height: 116px; border: 2px solid #fff; border-radius: 5px;}
+.wktime{ margin-top: 40px; width: 304px;  background: #1fb9a5;border-radius: 5px; overflow: hidden;}
+.wbd{ padding-bottom: 10px;margin: 4px; width: 292px;  border: 2px solid #fff; border-radius: 5px;}
 .wbd b{ padding: 10px 0; display: block; font-weight: normal;font-size: 22px; color: #ffffff;text-align: center;}
 .wbd p{ font-size: 16px; color: #ffffff;text-align: center; line-height: 22px;}
 .msg{ margin-top: 20px; width: 300px; height: 84px; border: 2px solid #1fb9a5;border-radius: 5px;}
